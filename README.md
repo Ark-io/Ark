@@ -17,7 +17,7 @@
 
 ## Overview
 
-![Yinet](img/yinet.png)
+<div style="text-align:center">![Yinet](img/yinet.png)</div>
 
 ## Project Design
 
