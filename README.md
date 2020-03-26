@@ -6,11 +6,11 @@
 
 - [Overview](#Overview)
 - [Project Design](#project-design)
-- [Paper and Documents](#paper-and-documents)
-- [Whitepaper](#whitepaper)
-- [The brief of decenteralized network](#The-brief-of-decenteralized-network)
-- [Definitions](#Definitions)
-- [Sub-project](#Sub-project)
+  - [Paper and Documents](#paper-and-documents)
+  - [Whitepaper](#whitepaper)
+    - [The brief of decenteralized network](#The-brief-of-decenteralized-network)
+    - [Definitions](#Definitions)
+  - [Sub-project](#Sub-project)
 - [State of project](#state-of-project)
 - [License](#License)
 
