@@ -17,7 +17,7 @@
 
 ## Overview
 
-<div style="text-align:center">![Yinet](img/yinet.png)</div>
+![Yinet](img/yinet.png){ style="display: block; margin: 0 auto" }
 
 ## Project Design
 
