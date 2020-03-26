@@ -7,7 +7,9 @@
 - [Overview](#Overview)
 - [Project Design](#project-design)
   - [Paper and Documents](#paper-and-documents)
-  - [The belief of future](#the-belief-of-future)
+  - [Whitepaper](#whitepaper)
+    - [The brief of decenteralized network](#The-brief-of-decenteralized-network)
+    - [Definitions](#Definitions)
   - [Sub-project](#Sub-project)
 - [State of project](#state-of-project)
 - [License](#License)
@@ -24,15 +26,29 @@ sub-project for different usage.
 
 ### Paper and Documents
 
-- [Whitepaper](en/whitepaper.md): Describe ` Yinet`'s aims and design principle.
-- [RFCs](en/rfcs/index.md): Describe the detail of project.
+- [Whitepaper](#Whitepaper): Describe ` Yinet`'s aims and design principle.
+- [RFCs](en/rfcs/README.md): Describe the detail of project.
 
-### The belief
+### Whitepaper
+
+#### The brief of decenteralized network
 
 With the development of Internet technology, the mode of interactive has been
 moved from the computer to the mobile phone. Nowadays, it gradually can apply
 to all devices in daily life: washing machines, cameras, air conditioners, TVs,
 sweeping robots, vending machines and so on.
+
+#### Definitions
+
+#### Background
+
+#### Technical framework
+
+We present the graph of all modules in `Yinet`.
+
+> Graph here.
+
+Please read rfc:[0001-architecture](rfcs/0001-architecture.md)
 
 ### Sub-project
 
