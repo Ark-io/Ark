@@ -7,7 +7,7 @@
 - [Overview](#Overview)
 - [Project Design](#project-design)
   - [Paper and Documents](#paper-and-documents)
-  - [Submodule](#Submodule)
+  - [The belief of future](#the-belief-of-future)
   - [Sub-project](#Sub-project)
 - [State of project](#state-of-project)
 - [License](#License)
@@ -37,7 +37,7 @@ sweeping robots, vending machines and so on.
 ### Sub-project
 
 - [Stem](https://github.com/Yinet-project/Stem): A distributed infrastructure.
-- [Lightcore](https://github.com/Yinet-project/Lightcore): A lightweight flexable
+- [Lightcore](https://github.com/Yinet-project/Lightcore): A lightweight flexible
 blockchain framework.
 - [Hodor](https://github.com/Yinet-project/Hodor): Distributed AI Helper with RDF.
 - [Karma](https://github.com/Yinet-project/Karma): Advance cryptography toolkits.
@@ -48,7 +48,7 @@ blockchain framework.
 
 ***Yinet is a work in process!***
 
-We persent project's roadmap here.
+We present project's roadmap here.
 
 ### Contribute
 
