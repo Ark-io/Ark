@@ -27,7 +27,7 @@ To learn more design detail for this project, please read [Paper and Documents](
 
 - [Whitepaper](#Whitepaper): Describe ` Yinet`'s aims and design principle.
   
-- [RFCs](en/rfcs/README.md): Describe the detail of project.
+- [RFCs](rfcs/README.md): Describe the detail of project.
 
 ### Whitepaper
 
@@ -119,7 +119,7 @@ We present the graph of all modules in `Yinet`.
 
 > Graph here.
 
-Please read rfc:[0001-architecture](rfcs/0001-architecture.md)
+Please read rfc:[0001-architecture-of-yinet.md](text/0001-architecture-of-yinet.md)
 
 ### Sub-project
 
