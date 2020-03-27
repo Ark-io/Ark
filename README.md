@@ -10,6 +10,7 @@
   - [Whitepaper](#whitepaper)
     - [The brief of decenteralized network](#The-brief-of-decenteralized-network)
     - [Definitions](#Definitions)
+    - [Technical framework](#Technical-framework)
   - [Sub-project](#Sub-project)
 - [State of project](#state-of-project)
 - [License](#License)
