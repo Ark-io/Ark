@@ -155,4 +155,4 @@ You can make issue and pull request for related implementation project.
 
 ## License
 
-MIT
+LGPL-3.0
